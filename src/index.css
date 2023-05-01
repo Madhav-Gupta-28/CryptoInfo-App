@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-color: blackAlpha.700; */
+ }
+
+ .radio-div{
+    margin: 2rem 5rem, ;
+}
+
+.error-div{
+
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+    margin: 30vh    auto ;
+    /* background-color: red; */
+    color: red;
+    font-size: 2rem ;
+    /* text-decoration: underline ; */
+    font-weight: 600;
+    text-shadow: 5px;
+}
+
+.btn-header{
+    transition: all 0.7s;
+}
